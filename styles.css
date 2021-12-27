@@ -4,7 +4,7 @@ body {
     rgba(255, 255, 255, 0.01),
     rgba(255, 255, 255, 0.99)
   ),
-  url("IMG_1332.jpg");
+  url("/IMG_1332.jpg");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
