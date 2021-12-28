@@ -1,10 +1,10 @@
 
 body {
   background: linear-gradient(
-    rgba(255, 255, 255, 0.1),
-    rgba(255, 255, 255, 0.5)
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0.1)
   ),
-  url("IMG_1332.png");
+  url("https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/08/03/11/BalloonFiestaBristol030820-3.jpg?width=968");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
