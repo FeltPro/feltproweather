@@ -12,7 +12,7 @@ let longitude = 0.0
 
 input.addEventListener("keyup" , function(event) {
 
-  if(event.keyCode === 13 ) {
+  if('Enter' === event.key || event.keyCode === 13 ) {
     event.preventDefault();
 
     city = input.value
